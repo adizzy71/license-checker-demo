@@ -1,7 +1,7 @@
 {
   "name": "license-checker-demo",
   "version": "1.0.0",
-  "description": "A repository where we demo the license checker GitHub App",
+  "description": "A repository where we demo the license checker GitHub App yeah",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
